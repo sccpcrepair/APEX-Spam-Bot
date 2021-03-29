@@ -1,4 +1,4 @@
-# APEX-Spam-Bot
+# Phantasma_Iran
 Telegram Group Management Bot
 # Configuration
 Configure
